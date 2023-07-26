@@ -7,13 +7,11 @@ Understanding the salary trends and factors affecting compensation in the data s
   2. Technologies Used
   3. Data Preprocessing
   4. Exploratory Data Analysis (EDA)
-  5. Feature Engineering
-  6. Model Selection
-  7. Model Training and Evaluation
-  8. Results and Insights
-  9. Conclusion
+  5. Results and Insights
+  6. Conclusion
+
 # Data Scource:
-The dataset for this project was collected from Kaggle, a reputable platform for data science and machine learning resources. It contains 3755 data samples (rows) and 11 columns, including features such  work_year, experience_level, employment_type, job_title, salary, salary_currency, salary_in_usd, employee_residence, remote_ratio, company_location, company_size.
+The dataset for this project was collected from Kaggle [Data Science Job Salaries Dataset] (https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023) a reputable platform for data science and machine learning resources. It contains 3755 data samples (rows) and 11 columns, including features such  work_year, experience_level, employment_type, job_title, salary, salary_currency, salary_in_usd, employee_residence, remote_ratio, company_location, company_size.
 
 # Technology used:
   1. Python 3.8
@@ -38,6 +36,9 @@ The dataset for this project was collected from Kaggle, a reputable platform for
   6. I did an analysis to calculate the average salary for each unique company location in the dataset to identify potential regions with higher or lower compensation rates for data science positions.
   7. I computed the average yearly salary for data science positions based on different company locations to provide valuable insights for job seekers and employers seeking to understand regional salary trends in the data science field.
   8. I calculated the mean salary for data science positions based on different employment types to provide valuable insights into how employment type influences salary levels within the data science domain.
-  9. 
 
-  10. 
+# Results and Insights
+
+
+# Conclusion 
+The data science salary prediction model offers valuable insights into compensation trends, empowering job seekers to make informed decisions and enabling employers to set competitive and fair salary ranges. The project demonstrates the potential of machine learning in solving real-world HR challenges.
