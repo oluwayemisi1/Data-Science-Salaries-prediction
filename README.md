@@ -1,7 +1,7 @@
 # Project Overview
 This data science project focuses on predicting salaries for data science professionals using machine learning techniques. The goal is to develop accurate and reliable models that can estimate the expected salary for a given set of features such as work_year, experience_level, employment_type, job_title, salary, salary_currency, salary_in_usd, employee_residence, remote_ratio, company_location, company_size.
 Understanding the salary trends and factors affecting compensation in the data science field can provide valuable insights for both job seekers and employers. This project aims to empower stakeholders with informed salary expectations and facilitate data-driven salary negotiations.
-![money]([path/to/your/image.png](https://github.com/oluwayemisi1/Data-Science-Salaries-prediction/blob/main/money.jpeg))
+![money](https://github.com/oluwayemisi1/Data-Science-Salaries-prediction/blob/main/money.jpeg))
 
 ## Table of Contents:
   1. Data Source
