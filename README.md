@@ -11,7 +11,7 @@ Understanding the salary trends and factors affecting compensation in the data s
   6. Conclusion
 
 # Data Scource:
-The dataset for this project was collected from Kaggle [Data Science Job Salaries Dataset] (https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023) a reputable platform for data science and machine learning resources. It contains 3755 data samples (rows) and 11 columns, including features such  work_year, experience_level, employment_type, job_title, salary, salary_currency, salary_in_usd, employee_residence, remote_ratio, company_location, company_size.
+The dataset for this project was collected from Kaggle [Data Science Job Salaries Dataset](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023) a reputable platform for data science and machine learning resources. It contains 3755 data samples (rows) and 11 columns, including features such  work_year, experience_level, employment_type, job_title, salary, salary_currency, salary_in_usd, employee_residence, remote_ratio, company_location, company_size.
 
 # Technology used:
   1. Python 3.8
